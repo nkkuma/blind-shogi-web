@@ -1,0 +1,1 @@
+# blind-shogi-web
